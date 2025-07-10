@@ -19,6 +19,11 @@ data/
 *.zip
 *.tar.gz
 
+# Experiment Logging
+*.log
+*.out
+*.err
+
 # Jupyter Notebook files and output
 **/.ipynb_checkpoints/
 *.nbconvert.ipynb

@@ -1,0 +1,31 @@
+# Virtual Environments
+*.env
+
+# Database files
+*.sqlite
+*.db
+*.rdb
+*.sql
+*.mdb
+*.accdb
+*.bak
+*.dump
+
+# Data folders and files
+data/
+*.nc
+*.csv
+*.json
+*.zip
+*.tar.gz
+
+# Jupyter Notebook files and output
+**/.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.nb.html
+*.out
+*.log
+
+# IDEs / Editors
+.vscode/
+.idea/

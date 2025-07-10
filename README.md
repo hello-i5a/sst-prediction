@@ -1,6 +1,7 @@
 # End-to-End ML/DL Project: SST Prediction
 
-🚧 Work in Progress
+_🚧 Work in Progress_
+
 This project is currently under development.
 
 ## Project Structure

@@ -34,3 +34,6 @@ data/
 # IDEs / Editors
 .vscode/
 .idea/
+
+# MLflow runs
+mlruns/
